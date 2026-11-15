@@ -12,7 +12,7 @@ An intelligent, full-stack personal digital twin platform that synthesizes multi
 ## 🔗 Live Deployments
 
 - 🌐 **Production Web Application:** [https://mindtwin-ai.vercel.app](https://mindtwin-ai.vercel.app)
-- ⚙️ **Production Backend API (Health Check):** [https://backend-production-3fee.up.railway.app/api/health](https://backend-production-3fee.up.railway.app/api/health)
+- ⚙️ **Production Backend API (Health Check):** https://mindtwin-backend.onrender.com
 
 ---
 
