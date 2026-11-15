@@ -1,10 +1,5 @@
 # 🧠 MindTwin AI — Personal Digital Twin Platform
 
-[![Live Web App](https://img.shields.io/badge/Live_App-Vercel-black?style=for-the-badge&logo=vercel)](https://mindtwin-ai.vercel.app)
-[![API Status](https://img.shields.io/badge/Backend_API-Railway-0B0D0E?style=for-the-badge&logo=railway)](https://backend-production-3fee.up.railway.app/api/health)
-[![Database](https://img.shields.io/badge/Database-MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/atlas)
-[![ML Engine](https://img.shields.io/badge/AI_Engine-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org)
-
 An intelligent, full-stack personal digital twin platform that synthesizes multi-stream biometric and behavioral telemetry (sleep cycles, cardiovascular signals, screen latency, and subjective mood ratings) into machine-learning powered behavioral forecasts and circadian insights.
 
 ---
